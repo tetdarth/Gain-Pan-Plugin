@@ -1,0 +1,32 @@
+﻿  PluginProcessor.cpp
+  PluginEditor.cpp
+  include_juce_audio_basics.cpp
+  include_juce_audio_devices.cpp
+  include_juce_audio_formats.cpp
+  include_juce_audio_plugin_client_ARA.cpp
+  include_juce_audio_plugin_client_utils.cpp
+  include_juce_audio_processors_ara.cpp
+  include_juce_audio_processors_lv2_libs.cpp
+  include_juce_audio_utils.cpp
+  include_juce_core.cpp
+  include_juce_data_structures.cpp
+  include_juce_events.cpp
+  include_juce_graphics.cpp
+  include_juce_gui_extra.cpp
+C:\JUCE\modules\juce_core\text\juce_CharacterFunctions.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\JuceLibraryCode\include_juce_core.cpp)
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(80,58): warning C4100: 'index': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(84,69): warning C4100: 'index': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(89,85): warning C4100: 'newName': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(89,58): warning C4100: 'index': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(94,73): warning C4100: 'samplesPerBlock': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(94,57): warning C4100: 'sampleRate': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(132,101): warning C4100: 'midiMessages': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(136,10): warning C4189: 'totalNumOutputChannels': ローカル変数が初期化されましたが、参照されていません
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(177,75): warning C4100: 'destData': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(184,78): warning C4100: 'sizeInBytes': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginProcessor.cpp(184,68): warning C4100: 'data': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginEditor.cpp(61,78): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\sho11\Documents\JUCE\GainPanPlugin\Source\PluginEditor.cpp(62,71): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  include_juce_audio_processors.cpp
+  include_juce_gui_basics.cpp
+  GainPanPlugin_SharedCode.vcxproj -> C:\Users\sho11\Documents\JUCE\GainPanPlugin\Builds\VisualStudio2022\x64\Release\Shared Code\GainPanPlugin.lib

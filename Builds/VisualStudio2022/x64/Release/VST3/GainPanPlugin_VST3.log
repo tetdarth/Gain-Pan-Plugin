@@ -1,0 +1,5 @@
+﻿  include_juce_audio_plugin_client_VST3.cpp
+     ライブラリ C:\Users\sho11\Documents\JUCE\GainPanPlugin\Builds\VisualStudio2022\x64\Release\VST3\GainPanPlugin.lib とオブジェクト C:\Users\sho11\Documents\JUCE\GainPanPlugin\Builds\VisualStudio2022\x64\Release\VST3\GainPanPlugin.exp を作成中
+  コード生成しています。
+  コード生成が終了しました。
+  GainPanPlugin_VST3.vcxproj -> C:\Users\sho11\Documents\JUCE\GainPanPlugin\Builds\VisualStudio2022\x64\Release\VST3\GainPanPlugin.vst3
